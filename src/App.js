@@ -14,7 +14,7 @@ class App extends Component {
     return (
       <div className="">
         {/* <div style={{height:'100vh', width:'100vw'}} className=' '> */}
-         {/* <Header /> */}
+         <Header />
         {/* </div> */}
         <Home />
         <Footer />
