@@ -20,7 +20,7 @@ const settings = {
 };
 
 const Header = () => (
-  <div style={{ width: "100%", height: "100vh" }}>
+  <div className='header-container'>
     <Slider {...settings}>
       <div className="header-block">
         <img src={kyiv} alt="" />
