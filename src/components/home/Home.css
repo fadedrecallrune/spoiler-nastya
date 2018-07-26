@@ -12,6 +12,7 @@
 @media(max-width:415px){
   .firstblock-container {
     height: 120vh;
+    margin-top: -25%
   }
 }
 
