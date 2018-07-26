@@ -1,0 +1,60 @@
+.firstpricecard-container {
+  display: flex;
+  width: 29%;
+  height: 82%;
+  flex-direction: column;
+  background-color: white;
+  margin: 4% 8% 0% 8%;
+  border-radius: 6px;
+  align-items: center;
+  box-shadow: 3px 3px 5px 5px rgba(0,0,0,0.5);
+  transition: transform .2s;
+
+}
+@media(max-width:415px){
+  .firstpricecard-container {
+    width: 100%;
+    margin: 4% 0 0 0;
+  }
+}
+.firstpricecard-container:hover {
+  transform: scale(1.1)
+}
+
+.prices-button {
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-color: #eeb120;
+  color: #ffffff;
+
+  height: 48px;
+  width: 80%;
+  border-radius: 4px;
+
+  margin-top: 8%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.prices-button2 {
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-color: #eeb120;
+  color: #ffffff;
+
+  height: 48px;
+  width: 80%;
+  border-radius: 4px;
+
+  margin-top: 18%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

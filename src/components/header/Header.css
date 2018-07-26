@@ -1,0 +1,58 @@
+/* .carousel-image {
+  height: 100%;
+  width: 40%;
+} */
+
+.header-container {
+  height: 80vh;
+}
+
+.header-block {
+  height: 100vh;
+  width: 99vw;
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(20, 20, 20, 0.9),
+    rgba(20, 20, 20, 0.8)
+  );
+  z-index: 100;
+
+}
+
+.header-caption {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  top: -70%;
+  left: 20%;
+  color: #ffffff;
+  
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.header-caption > p {
+  font-family: 'roboto';
+  font-size: 23px;
+  letter-spacing: 0.24px;
+  text-align: center;
+  word-spacing: 0.16px;
+}
+
+.header-callbutton {
+  width: 50%;
+  background-color:#eeb120;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  border-radius: 4px;
+  align-self:center;
+  margin-top: 10%;
+}
+
+
+
