@@ -22,6 +22,8 @@
   width: 100vw;
   z-index: -1;
   position: relative;
+  perspective: 1000;
+  backface-visibility: hidden;
 }
 
 
