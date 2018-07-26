@@ -80,7 +80,6 @@
 /* SECOND BLOCK */
 /* SECOND BLOCK */
 /* SECOND BLOCK */
-
 .secondblock-container {
   height: 85vh;
   background-color: #498cff;
@@ -350,7 +349,6 @@
 /* MAP BLOCK */
 /* MAP BLOCK */
 /* MAP BLOCK */
-
 .map-container {
   height: 85vh;
 }
@@ -367,10 +365,10 @@
 
 @media(max-width:415px){
   .map-container-black {
-    height: 60vh;
+    height: 450px;
   }
   .map-container {
-    height: 60vh;
+    height: 450px;
   }
 }
 

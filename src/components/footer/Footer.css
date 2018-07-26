@@ -6,3 +6,9 @@
   color: #999999;
   align-items: center;
 }
+
+@media(max-width:415px){
+  .footer-container {
+    height: 100px;
+  }
+}
