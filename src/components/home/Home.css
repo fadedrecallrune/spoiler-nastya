@@ -12,7 +12,7 @@
 @media(max-width:415px){
   .firstblock-container {
     height: 120vh;
-    margin-top: -25%
+    /* margin-top: -25% */
   }
 }
 
@@ -215,7 +215,7 @@
   word-spacing: 0.16px;
   font-weight: 300;
   letter-spacing: 0.64px;
-  /* font-family: 'roboto' */
+  font-family: 'roboto'
 }
 .forthblock-text > h1 {
   font-size: 40px;
@@ -228,7 +228,7 @@
     text-align: center;
   }
   .forthblock-text > p {
-    font-size: 14px;
+    font-size: 13px;
   }
 
   .forthblock-text > h1 {
@@ -263,11 +263,11 @@
 }
 @media(max-width:415px){
   .prices-container {
-    height: 160vh;
+    height: 170vh;
   }
   .prices-container > h1 {
     font-size: 32px;
-    margin-top: 10%;
+    margin-top: 20%;
   }
 }
 
@@ -282,7 +282,7 @@
 @media(max-width:415px){
   .cardbox-container {
     flex-direction: column;
-    height: 90%;
+    height: 80%;
   }
 }
 
