@@ -8,7 +8,7 @@ const ForthBlock = () => (
   <div className='forthblock-container'>
     <div className='colorblock'>
       <div className='secondblock-image'>
-       <img  style={{width:'100%', borderRadius:'6px', marginTop:'10%'}} src={bwm} alt='' />
+       <img  style={{width:'100%', borderRadius:'6px', marginTop:'5%'}} src={bwm} alt='' />
       </div>
 
       <div className='forthblock-text'>

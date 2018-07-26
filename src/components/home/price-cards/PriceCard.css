@@ -11,6 +11,17 @@
   transition: transform .2s;
 
 }
+@media(min-width:1600px){
+  .firstpricecard-container {
+    height: 65%;
+  }
+}
+@media(min-width:1824px){
+  .firstpricecard-container {
+    height: 70%;
+  }
+}
+
 @media(max-width:415px){
   .firstpricecard-container {
     width: 100%;
