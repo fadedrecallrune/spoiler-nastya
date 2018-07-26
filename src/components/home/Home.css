@@ -11,7 +11,7 @@
 }
 @media(max-width:415px){
   .firstblock-container {
-    height: 110vh;
+    height: 120vh;
   }
 }
 
@@ -87,7 +87,7 @@
 }
 @media(max-width:415px){
   .secondblock-container {
-    height: 90vh;
+    height: 100vh;
   }
 }
 .colorblock {
@@ -179,7 +179,7 @@
 }
 @media(max-width:415px){
   .thirdblock-container {
-    height: 90vh;
+    height: 100vh;
     flex-direction: column;
   }
   .thirdblock-container > .colorblock {
@@ -199,7 +199,7 @@
 }
 @media(max-width:415px){
   .forthblock-container {
-    height: 100vh;
+    height: 110vh;
   }
 }
 .forthblock-text {
@@ -262,7 +262,7 @@
 }
 @media(max-width:415px){
   .prices-container {
-    height: 155vh;
+    height: 160vh;
   }
   .prices-container > h1 {
     font-size: 32px;
@@ -322,7 +322,7 @@
 
 @media(max-width:415px){
   .hours-container {
-    height: 90vh;
+    height: 100vh;
     flex-direction: column;
   }
   .hours-box {
