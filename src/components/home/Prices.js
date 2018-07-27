@@ -1,7 +1,6 @@
 import React from 'react'
 import "./Home.css"
 
-import backimage from '../../images/1.jpeg'
 import FirstPriceCard from './price-cards/FirstPriceCard';
 import SecondPriceCard from './price-cards/SecondPriceCard';
 
