@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 
-import car from '../../images/third.jpg'
+import car from '../../images/third2.webp'
 
 const ThirdBlock = () => (
   <div className='thirdblock-container'>

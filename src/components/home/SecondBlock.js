@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 
-import megan from '../../images/megan.jpg'
+import megan from '../../images/megan2.webp'
 
 
 const SecondBlock = () => (

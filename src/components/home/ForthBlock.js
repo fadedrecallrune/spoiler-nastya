@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 
-import bwm from '../../images/4.jpg'
+import bwm from '../../images/44.webp'
 
 
 const ForthBlock = () => (

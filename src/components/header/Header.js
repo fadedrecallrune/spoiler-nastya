@@ -2,9 +2,9 @@ import React from "react";
 import "./Header.css";
 import Slider from "react-slick";
 
-import ff from "../../images/first.jpg";
-import kyiv from "../../images/kyiv.jpg";
-import door from "../../images/cardoor.jpg";
+import ff from "../../images/first2.webp";
+import kyiv from "../../images/kyiv2.webp";
+import door from "../../images/cardoor2.webp";
 
 const settings = {
   arrows: false,
