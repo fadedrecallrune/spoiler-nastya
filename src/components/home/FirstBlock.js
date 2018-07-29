@@ -4,7 +4,7 @@ import './Home.css'
 
 const FirstBlock = () => (
   <div className='firstblock-container'>
-    <h1>Мы Предлогаем</h1>
+    <h1>Мы Предлагаем</h1>
 
     <div className='font-container'>
       <div className='font-box'>

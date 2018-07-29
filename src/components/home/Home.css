@@ -82,7 +82,9 @@
 /* SECOND BLOCK */
 .secondblock-container {
   height: 85vh;
-  background-color: #498cff;
+  background-color: #40434E;
+  /* background: linear-gradient(to right, #16222a, #3a6073); */
+
   display: flex;
   justify-content: center;
 }
@@ -198,6 +200,10 @@
   justify-content: center;
   align-items: center;
 }
+.secondblock-button > a {
+  text-decoration: none;
+  color: white;
+}
 @media(min-width:1824px){
   .secondblock-button {
     font-size: 22px;
@@ -216,7 +222,10 @@
 /* THIRD BLOCK */
 .thirdblock-container {
   height: 85vh;
-  background-color: #df3034;
+  /* background: linear-gradient(to right, #200122, #6f0000); */
+  /* background: linear-gradient(to right, #a73737, #7a2828); */
+  background-color: #702632;
+
   display: flex;
   justify-content: center;
 }
@@ -245,7 +254,10 @@
 /* FORTH BLOCK */
 .forthblock-container {
   height: 80vh;
-  background-color: #e8882e;
+  /* background-color: #912F40; */
+  /* background: linear-gradient(to top, #3a6073, #7a2828); */
+  background: linear-gradient(to right, #16222a, #3a6073);
+
   display: flex;
   justify-content: center;
 }
@@ -315,7 +327,7 @@
 /* PRICES BLOCK */
 
 .prices-container {
-  height: 100vh;
+  height: 110vh;
   background-image: linear-gradient(
       to right bottom,
       rgba(20, 20, 20, 0.9),
@@ -364,6 +376,11 @@
   .prices-container{
     height: 90vh;
   }
+}
+
+.prices-button > a {
+  text-decoration: none;
+  color:white;
 }
 
 /* WORKING HOURS */
@@ -501,7 +518,7 @@
 }
 
 
-a:hover {
+.map-overlay > a:hover {
   color: white;
   transform: scale(1.7)
 }

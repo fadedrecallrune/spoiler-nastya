@@ -3,6 +3,7 @@
   width: 29%;
   height: 82%;
   flex-direction: column;
+  justify-content: space-between;
   background-color: white;
   margin: 4% 8% 0% 8%;
   border-radius: 6px;
@@ -44,8 +45,7 @@
   width: 80%;
   border-radius: 4px;
 
-  margin-top: 8%;
-
+  margin-bottom: 5%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,9 +63,13 @@
   width: 80%;
   border-radius: 4px;
 
-  margin-top: 18%;
+  margin-bottom: 5%;
 
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.prices-button2 > a {
+  text-decoration: none;
+  color: white;
 }

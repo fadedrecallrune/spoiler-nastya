@@ -13,9 +13,9 @@ const SecondPriceCard = () => (
     <p style={{marginTop:'-3%'}}>220 грн.(АКПП - 240 грн.)</p>
 
   <p style={{textAlign:'center', margin:'20% 10% 0% 10%',fontFamily:'roboto',}} >длительность одного занятия составляет 60 минут</p>
-  <p style={{textAlign:'center', margin:'0% 10%',fontFamily:'roboto',}} >Рекомендуемый курс вождения – от 10 до 30 занятий</p>
+  <p style={{textAlign:'center', margin:'0% 10% 20% 10%',fontFamily:'roboto',}} >Рекомендуемый курс вождения – от 10 до 30 занятий</p>
 
-    <div className='prices-button2' style={{}}>(063) 648 49 29</div>
+    <div className='prices-button2'><a href='tel:063 648 49 29'>(063) 648 49 29</a></div>
 
   </div>
 )

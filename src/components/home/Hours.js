@@ -16,7 +16,7 @@ const Hours = () => (
         <p style={{ marginTop:'-1.5%'}}>Суббота: 9 – 16</p>
         <p style={{ marginTop:'-1.5%'}}>Воскресенье: ЗАКРЫТО</p>
 
-        <div className='secondblock-button' style={{}}>(063) 648 49 29</div>
+        <div className='secondblock-button'  style={{}}><a href='tel:063 648 49 29'>(063) 648 49 29</a></div>
       </div>
 
       <div className='secondblock-text'>
