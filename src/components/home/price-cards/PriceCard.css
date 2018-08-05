@@ -22,7 +22,13 @@
     height: 70%;
   }
 }
-
+@media(max-width:820px){
+  .firstpricecard-container {
+    width: 60%;
+    height: 100%;
+    margin: 5% 4% 0% 4%;
+  }
+}
 @media(max-width:415px){
   .firstpricecard-container {
     width: 100%;
